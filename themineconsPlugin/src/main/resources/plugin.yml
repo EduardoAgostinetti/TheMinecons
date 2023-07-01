@@ -1,0 +1,4 @@
+name: themineconsPlugin
+version: '${project.version}'
+main: theminecons.themineconsplugin.ThemineconsPlugin
+api-version: '1.19'

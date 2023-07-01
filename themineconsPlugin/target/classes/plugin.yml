@@ -1,0 +1,4 @@
+name: themineconsPlugin
+version: '1.0-SNAPSHOT'
+main: theminecons.themineconsplugin.ThemineconsPlugin
+api-version: '1.19'
